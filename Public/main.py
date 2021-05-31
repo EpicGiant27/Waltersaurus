@@ -86,4 +86,4 @@ async def help(ctx):
 
     await author.send(embed=embed)
 
-client.run('ODQ4MTQ4OTUxMzQ0NzQyNDEx.YLIaQw.N3NcEzgYDZQOHeRqK7-VWu5Wm3Y')
+client.run('TOKEN')
